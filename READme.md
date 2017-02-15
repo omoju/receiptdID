@@ -13,6 +13,7 @@ Receipt.id is tested to work under Python 2.7 and Python 3
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [Scikit-learn](http://scikit-learn.org/stable/)
+- [Gensim](https://radimrehurek.com/gensim/)
 
 
 Code
