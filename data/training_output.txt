@@ -1,0 +1,732 @@
+processing 1: Food
+0.574% positive samples
+Number of datapoints in set 127108
+Training the model....
+Finished training category1: Food
+
+processing 2: Supplies
+0.137% positive samples
+Number of datapoints in set 127108
+Training the model....
+Finished training category2: Supplies
+
+processing 3: Beverages
+0.201% positive samples
+Number of datapoints in set 127108
+Training the model....
+Finished training category3: Beverages
+
+processing 4: Other
+0.071% positive samples
+Number of datapoints in set 127108
+Training the model....
+Finished training category4: Other
+
+processing 1030: Seeds
+0.009% positive samples
+Number of datapoints in set 54600
+Training the model....
+Finished training category1030: Seeds
+
+processing 1033: Ground Black Pepper
+0.006% positive samples
+Number of datapoints in set 54396
+Training the model....
+Finished training category1033: Ground Black Pepper
+
+processing 1039: Nuts & Grains
+0.028% positive samples
+Number of datapoints in set 55662
+Training the model....
+Finished training category1039: Nuts & Grains
+
+processing 16: Beers
+0.028% positive samples
+Number of datapoints in set 104382
+Training the model....
+Finished training category16: Beers
+
+processing 1041: Medical Supplies
+0.003% positive samples
+Number of datapoints in set 110000
+Training the model....
+Finished training category1041: Medical Supplies
+
+processing 18: Wines
+0.101% positive samples
+Number of datapoints in set 112956
+Training the model....
+Finished training category18: Wines
+
+processing 531: Condiments
+0.009% positive samples
+Number of datapoints in set 54589
+Training the model....
+Finished training category531: Condiments
+
+processing 21: Rose Wine
+0.005% positive samples
+Number of datapoints in set 101971
+Training the model....
+Finished training category21: Rose Wine
+
+processing 535: Fruits
+0.068% positive samples
+Number of datapoints in set 58062
+Training the model....
+Finished training category535: Fruits
+
+processing 537: Herbs
+0.054% positive samples
+Number of datapoints in set 57164
+Training the model....
+Finished training category537: Herbs
+
+processing 26: Juices
+0.012% positive samples
+Number of datapoints in set 102735
+Training the model....
+Finished training category26: Juices
+
+processing 32: Gin
+0.005% positive samples
+Number of datapoints in set 102020
+Training the model....
+Finished training category32: Gin
+
+processing 1200: Shrimp
+0.012% positive samples
+Number of datapoints in set 54744
+Training the model....
+Finished training category1200: Shrimp
+
+processing 35: Bourbon
+0.006% positive samples
+Number of datapoints in set 102141
+Training the model....
+Finished training category35: Bourbon
+
+processing 39: Tequila
+0.007% positive samples
+Number of datapoints in set 102177
+Training the model....
+Finished training category39: Tequila
+
+processing 40: Teas
+0.010% positive samples
+Number of datapoints in set 54648
+Training the model....
+Finished training category40: Teas
+
+processing 44: Beans
+0.010% positive samples
+Number of datapoints in set 54632
+Training the model....
+Finished training category44: Beans
+
+processing 49: Rye
+0.003% positive samples
+Number of datapoints in set 101820
+Training the model....
+Finished training category49: Rye
+
+processing 50: Iced Tea
+0.007% positive samples
+Number of datapoints in set 54474
+Training the model....
+Finished training category50: Iced Tea
+
+processing 51: Fuel & Freight/Delivery
+0.014% positive samples
+Number of datapoints in set 119739
+Training the model....
+Finished training category51: Fuel & Freight/Delivery
+
+processing 52: Whiskey
+0.019% positive samples
+Number of datapoints in set 103433
+Training the model....
+Finished training category52: Whiskey
+
+processing 1077: Breads
+0.029% positive samples
+Number of datapoints in set 55718
+Training the model....
+Finished training category1077: Breads
+
+processing 1078: Shellfish
+0.048% positive samples
+Number of datapoints in set 56840
+Training the model....
+Finished training category1078: Shellfish
+
+processing 55: Oils
+0.028% positive samples
+Number of datapoints in set 55658
+Training the model....
+Finished training category55: Oils
+
+processing 56: Pork
+0.036% positive samples
+Number of datapoints in set 56120
+Training the model....
+Finished training category56: Pork
+
+processing 69: Chicken
+0.023% positive samples
+Number of datapoints in set 55351
+Training the model....
+Finished training category69: Chicken
+
+processing 70: Beef
+0.039% positive samples
+Number of datapoints in set 56304
+Training the model....
+Finished training category70: Beef
+
+processing 74: Fish
+0.049% positive samples
+Number of datapoints in set 56875
+Training the model....
+Finished training category74: Fish
+
+processing 76: Spices
+0.050% positive samples
+Number of datapoints in set 56914
+Training the model....
+Finished training category76: Spices
+
+processing 78: Cheese
+0.065% positive samples
+Number of datapoints in set 57854
+Training the model....
+Finished training category78: Cheese
+
+processing 80: Apples
+0.008% positive samples
+Number of datapoints in set 54537
+Training the model....
+Finished training category80: Apples
+
+processing 84: Lettuce
+0.014% positive samples
+Number of datapoints in set 54857
+Training the model....
+Finished training category84: Lettuce
+
+processing 86: Asparagus
+0.006% positive samples
+Number of datapoints in set 54422
+Training the model....
+Finished training category86: Asparagus
+
+processing 87: Syrup
+0.010% positive samples
+Number of datapoints in set 54652
+Training the model....
+Finished training category87: Syrup
+
+processing 88: Avocados
+0.007% positive samples
+Number of datapoints in set 54453
+Training the model....
+Finished training category88: Avocados
+
+processing 89: Kale
+0.006% positive samples
+Number of datapoints in set 54431
+Training the model....
+Finished training category89: Kale
+
+processing 95: Basil
+0.006% positive samples
+Number of datapoints in set 54405
+Training the model....
+Finished training category95: Basil
+
+processing 98: Beets
+0.009% positive samples
+Number of datapoints in set 54566
+Training the model....
+Finished training category98: Beets
+
+processing 99: Bell Peppers
+0.008% positive samples
+Number of datapoints in set 54552
+Training the model....
+Finished training category99: Bell Peppers
+
+processing 105: Lamb
+0.006% positive samples
+Number of datapoints in set 54424
+Training the model....
+Finished training category105: Lamb
+
+processing 109: Broccoli
+0.009% positive samples
+Number of datapoints in set 54571
+Training the model....
+Finished training category109: Broccoli
+
+processing 111: Mushrooms
+0.023% positive samples
+Number of datapoints in set 55374
+Training the model....
+Finished training category111: Mushrooms
+
+processing 115: Butter 
+0.007% positive samples
+Number of datapoints in set 54463
+Training the model....
+Finished training category115: Butter 
+
+processing 118: Potatoes
+0.015% positive samples
+Number of datapoints in set 54893
+Training the model....
+Finished training category118: Potatoes
+
+processing 119: Cabbages
+0.009% positive samples
+Number of datapoints in set 54589
+Training the model....
+Finished training category119: Cabbages
+
+processing 124: Milk
+0.014% positive samples
+Number of datapoints in set 54859
+Training the model....
+Finished training category124: Milk
+
+processing 125: Carrots
+0.012% positive samples
+Number of datapoints in set 54724
+Training the model....
+Finished training category125: Carrots
+
+processing 126: Cauliflower
+0.006% positive samples
+Number of datapoints in set 54399
+Training the model....
+Finished training category126: Cauliflower
+
+processing 130: Cream
+0.011% positive samples
+Number of datapoints in set 54676
+Training the model....
+Finished training category130: Cream
+
+processing 132: Tomatoes
+0.017% positive samples
+Number of datapoints in set 55048
+Training the model....
+Finished training category132: Tomatoes
+
+processing 134: Peppers
+0.022% positive samples
+Number of datapoints in set 55280
+Training the model....
+Finished training category134: Peppers
+
+processing 136: Cilantro
+0.006% positive samples
+Number of datapoints in set 54425
+Training the model....
+Finished training category136: Cilantro
+
+processing 1164: Brut
+0.007% positive samples
+Number of datapoints in set 102233
+Training the model....
+Finished training category1164: Brut
+
+processing 143: Tortillas
+0.007% positive samples
+Number of datapoints in set 54473
+Training the model....
+Finished training category143: Tortillas
+
+processing 145: Cucumbers
+0.008% positive samples
+Number of datapoints in set 54553
+Training the model....
+Finished training category145: Cucumbers
+
+processing 148: Olives
+0.007% positive samples
+Number of datapoints in set 54487
+Training the model....
+Finished training category148: Olives
+
+processing 1113: Kegs
+0.005% positive samples
+Number of datapoints in set 102041
+Training the model....
+Finished training category1113: Kegs
+
+processing 25: Vodka
+0.008% positive samples
+Number of datapoints in set 102312
+Training the model....
+Finished training category25: Vodka
+
+processing 152: Flour & Starch
+0.017% positive samples
+Number of datapoints in set 55049
+Training the model....
+Finished training category152: Flour & Starch
+
+processing 157: Garlic
+0.006% positive samples
+Number of datapoints in set 54430
+Training the model....
+Finished training category157: Garlic
+
+processing 164: Mints
+0.006% positive samples
+Number of datapoints in set 54402
+Training the model....
+Finished training category164: Mints
+
+processing 176: Oranges
+0.009% positive samples
+Number of datapoints in set 54573
+Training the model....
+Finished training category176: Oranges
+
+processing 177: Onions
+0.018% positive samples
+Number of datapoints in set 55093
+Training the model....
+Finished training category177: Onions
+
+processing 1209: Gloves
+0.005% positive samples
+Number of datapoints in set 110233
+Training the model....
+Finished training category1209: Gloves
+
+processing 1730: Leaves
+0.010% positive samples
+Number of datapoints in set 54624
+Training the model....
+Finished training category1730: Leaves
+
+processing 1239: Lids
+0.003% positive samples
+Number of datapoints in set 110029
+Training the model....
+Finished training category1239: Lids
+
+processing 216: Radishes
+0.009% positive samples
+Number of datapoints in set 54572
+Training the model....
+Finished training category216: Radishes
+
+processing 226: Vinegars
+0.018% positive samples
+Number of datapoints in set 55079
+Training the model....
+Finished training category226: Vinegars
+
+processing 228: Sugar
+0.012% positive samples
+Number of datapoints in set 54737
+Training the model....
+Finished training category228: Sugar
+
+processing 229: Sauces
+0.025% positive samples
+Number of datapoints in set 55452
+Training the model....
+Finished training category229: Sauces
+
+processing 1148: Liqueur
+0.009% positive samples
+Number of datapoints in set 102458
+Training the model....
+Finished training category1148: Liqueur
+
+processing 235: Chocolate
+0.011% positive samples
+Number of datapoints in set 54672
+Training the model....
+Finished training category235: Chocolate
+
+processing 1064: Chardonnay
+0.006% positive samples
+Number of datapoints in set 102149
+Training the model....
+Finished training category1064: Chardonnay
+
+processing 247: Zucchini Squash
+0.006% positive samples
+Number of datapoints in set 54397
+Training the model....
+Finished training category247: Zucchini Squash
+
+processing 1272: Squash
+0.015% positive samples
+Number of datapoints in set 54923
+Training the model....
+Finished training category1272: Squash
+
+processing 1281: SF Checkout Bag Fee
+0.004% positive samples
+Number of datapoints in set 118519
+Training the model....
+Finished training category1281: SF Checkout Bag Fee
+
+processing 258: Keg Deposit
+0.006% positive samples
+Number of datapoints in set 118801
+Training the model....
+Finished training category258: Keg Deposit
+
+processing 1802: Baby Carrot
+0.006% positive samples
+Number of datapoints in set 54444
+Training the model....
+Finished training category1802: Baby Carrot
+
+processing 267: Glasses
+0.003% positive samples
+Number of datapoints in set 110046
+Training the model....
+Finished training category267: Glasses
+
+processing 275: Containers
+0.005% positive samples
+Number of datapoints in set 110255
+Training the model....
+Finished training category275: Containers
+
+processing 282: Uniforms
+0.007% positive samples
+Number of datapoints in set 110487
+Training the model....
+Finished training category282: Uniforms
+
+processing 286: Bags
+0.007% positive samples
+Number of datapoints in set 110434
+Training the model....
+Finished training category286: Bags
+
+processing 289: Cups
+0.004% positive samples
+Number of datapoints in set 110154
+Training the model....
+Finished training category289: Cups
+
+processing 1160: Red Wines
+0.045% positive samples
+Number of datapoints in set 106324
+Training the model....
+Finished training category1160: Red Wines
+
+processing 319: Red Onions
+0.006% positive samples
+Number of datapoints in set 54406
+Training the model....
+Finished training category319: Red Onions
+
+processing 54: Liquor
+0.065% positive samples
+Number of datapoints in set 108497
+Training the model....
+Finished training category54: Liquor
+
+processing 329: Poultry
+0.033% positive samples
+Number of datapoints in set 55964
+Training the model....
+Finished training category329: Poultry
+
+processing 331: Coffee
+0.011% positive samples
+Number of datapoints in set 54686
+Training the model....
+Finished training category331: Coffee
+
+processing 332: Pasta
+0.013% positive samples
+Number of datapoints in set 54781
+Training the model....
+Finished training category332: Pasta
+
+processing 1358: Rice
+0.009% positive samples
+Number of datapoints in set 54603
+Training the model....
+Finished training category1358: Rice
+
+processing 1365: Spreads & Pastes
+0.015% positive samples
+Number of datapoints in set 54903
+Training the model....
+Finished training category1365: Spreads & Pastes
+
+processing 355: Duck
+0.006% positive samples
+Number of datapoints in set 54402
+Training the model....
+Finished training category355: Duck
+
+processing 363: Rum
+0.005% positive samples
+Number of datapoints in set 101998
+Training the model....
+Finished training category363: Rum
+
+processing 375: Sausages
+0.014% positive samples
+Number of datapoints in set 54850
+Training the model....
+Finished training category375: Sausages
+
+processing 387: Oysters
+0.010% positive samples
+Number of datapoints in set 54614
+Training the model....
+Finished training category387: Oysters
+
+processing 391: Salt
+0.008% positive samples
+Number of datapoints in set 54510
+Training the model....
+Finished training category391: Salt
+
+processing 392: Disposables & Packaging Supplies
+0.049% positive samples
+Number of datapoints in set 115389
+Training the model....
+Finished training category392: Disposables & Packaging Supplies
+
+processing 403: Purees
+0.017% positive samples
+Number of datapoints in set 55035
+Training the model....
+Finished training category403: Purees
+
+processing 325: Eggs
+0.012% positive samples
+Number of datapoints in set 54772
+Training the model....
+Finished training category325: Eggs
+
+processing 1960: Glass Cleaner
+0.003% positive samples
+Number of datapoints in set 110049
+Training the model....
+Finished training category1960: Glass Cleaner
+
+processing 437: Bacon
+0.006% positive samples
+Number of datapoints in set 54402
+Training the model....
+Finished training category437: Bacon
+
+processing 963: Mozzarella
+0.006% positive samples
+Number of datapoints in set 54424
+Training the model....
+Finished training category963: Mozzarella
+
+processing 456: Sodas
+0.013% positive samples
+Number of datapoints in set 102788
+Training the model....
+Finished training category456: Sodas
+
+processing 970: Extra Virgin Olive Oil
+0.007% positive samples
+Number of datapoints in set 54467
+Training the model....
+Finished training category970: Extra Virgin Olive Oil
+
+processing 464: Canned
+0.085% positive samples
+Number of datapoints in set 59109
+Training the model....
+Finished training category464: Canned
+
+processing 980: Dried Fruits
+0.006% positive samples
+Number of datapoints in set 54420
+Training the model....
+Finished training category980: Dried Fruits
+
+processing 983: Cheddar
+0.008% positive samples
+Number of datapoints in set 54522
+Training the model....
+Finished training category983: Cheddar
+
+processing 986: Cleaning & Janitorial
+0.004% positive samples
+Number of datapoints in set 118507
+Training the model....
+Finished training category986: Cleaning & Janitorial
+
+processing 989: Pinot Noir
+0.012% positive samples
+Number of datapoints in set 102695
+Training the model....
+Finished training category989: Pinot Noir
+
+processing 482: Linens
+0.017% positive samples
+Number of datapoints in set 111619
+Training the model....
+Finished training category482: Linens
+
+processing 998: White Wines
+0.034% positive samples
+Number of datapoints in set 105098
+Training the model....
+Finished training category998: White Wines
+
+processing 999: Cabernet Sauvignon
+0.008% positive samples
+Number of datapoints in set 102353
+Training the model....
+Finished training category999: Cabernet Sauvignon
+
+processing 1002: Sauvignon Blanc
+0.006% positive samples
+Number of datapoints in set 102111
+Training the model....
+Finished training category1002: Sauvignon Blanc
+
+processing 495: Grocery
+0.006% positive samples
+Number of datapoints in set 127108
+Training the model....
+Finished training category495: Grocery
+
+processing 499: Protein
+0.005% positive samples
+Number of datapoints in set 127108
+Training the model....
+Finished training category499: Protein
+
+processing 1015: Chicken Breast
+0.006% positive samples
+Number of datapoints in set 54424
+Training the model....
+Finished training category1015: Chicken Breast
+
+processing 1019: Salmon
+0.010% positive samples
+Number of datapoints in set 54629
+Training the model....
+Finished training category1019: Salmon
+
+processing 1021: Tuna
+0.008% positive samples
+Number of datapoints in set 54521
+Training the model....
+Finished training category1021: Tuna
+
