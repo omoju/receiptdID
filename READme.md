@@ -34,3 +34,6 @@ To run a code cell in the notebook, hit `Shift+Enter`. Any output will be displa
 
 You can also add/edit markdown text cells and render them using `Shift+Enter`.
 
+## License
+
+The contents of this repository are covered under the [GNU GENERAL PUBLIC LICENSE](License.md).
